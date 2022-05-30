@@ -13,121 +13,121 @@ const Products = () => {
     {
       title: "Product 1",
       text: "Text of product 1",
-      imgUrl: "/assets/img/kitchen-1.jpg",
+      imgUrl: "kitchen-1.jpg",
       categorie: "Ambientes Planejados",
     },
     {
       title: "Product 1",
       text: "Text of product 1",
-      imgUrl: "/assets/img/kitchen-1.jpg",
+      imgUrl: "kitchen-2.jpg",
       categorie: "Ambientes Planejados",
     },
     {
       title: "Product 1",
       text: "Text of product 1",
-      imgUrl: "/assets/img/kitchen-1.jpg",
+      imgUrl: "kitchen-.jpg",
       categorie: "Ambientes Planejados",
     },
     {
       title: "Product 1",
       text: "Text of product 1",
-      imgUrl: "/assets/img/kitchen-1.jpg",
+      imgUrl: "cozinha-1.jpg",
       categorie: "Ambientes Planejados",
     },
     {
       title: "Product 1",
       text: "Text of product 1",
-      imgUrl: "/assets/img/kitchen-2.jpg",
+      imgUrl: "cozinha-1.jpg",
       categorie: "Cozinhas",
     },
     {
       title: "Product 1",
       text: "Text of product 1",
-      imgUrl: "/assets/img/kitchen-2.jpg",
+      imgUrl: "cozinha-2.jpg",
       categorie: "Cozinhas",
     },
     {
       title: "Product 1",
       text: "Text of product 1",
-      imgUrl: "/assets/img/kitchen-2.jpg",
+      imgUrl: "cozinha-3.jpg",
       categorie: "Cozinhas",
     },
     {
       title: "Product 1",
       text: "Text of product 1",
-      imgUrl: "/assets/img/kitchen-2.jpg",
+      imgUrl: "kitchen-.jpg",
       categorie: "Cozinhas",
     },
     {
       title: "Product 1",
       text: "Text of product 1",
-      imgUrl: "/assets/img/kitchen-4.jpg",
+      imgUrl: "quarto-solteiro-1.jpg",
       categorie: "Quartos de Solteiro",
     },
     {
       title: "Product 1",
       text: "Text of product 1",
-      imgUrl: "/assets/img/kitchen-4.jpg",
+      imgUrl: "quarto-solteiro-2.jpg",
       categorie: "Quartos de Solteiro",
     },
     {
       title: "Product 1",
       text: "Text of product 1",
-      imgUrl: "/assets/img/kitchen-4.jpg",
+      imgUrl: "cozinha-3.jpg",
       categorie: "Quartos de Solteiro",
     },
     {
       title: "Product 1",
       text: "Text of product 1",
-      imgUrl: "/assets/img/kitchen-4.jpg",
+      imgUrl: "cozinha-3.jpg",
       categorie: "Quartos de Solteiro",
     },
     {
       title: "Product 1",
       text: "Text of product 1",
-      imgUrl: "/assets/img/kitchen-.jpg",
+      imgUrl: "quarto-casal-2.jpg",
       categorie: "Quartos de Casal",
     },
     {
       title: "Product 1",
       text: "Text of product 1",
-      imgUrl: "/assets/img/kitchen-.jpg",
+      imgUrl: "quarto-casal-1.jpg",
       categorie: "Quartos de Casal",
     },
     {
       title: "Product 1",
       text: "Text of product 1",
-      imgUrl: "/assets/img/kitchen-.jpg",
+      imgUrl: "quarto-casal-2.jpg",
       categorie: "Quartos de Casal",
     },
     {
       title: "Product 1",
       text: "Text of product 1",
-      imgUrl: "/assets/img/kitchen-.jpg",
+      imgUrl: "quarto-casal-1.jpg",
       categorie: "Quartos de Casal",
     },
     {
       title: "Product 1",
       text: "Text of product 1",
-      imgUrl: "/assets/img/kitchen-1.jpg",
+      imgUrl: "office-1.jpg",
       categorie: "Offices",
     },
     {
       title: "Product 1",
       text: "Text of product 1",
-      imgUrl: "/assets/img/kitchen-1.jpg",
+      imgUrl: "office-2.jpg",
       categorie: "Offices",
     },
     {
       title: "Product 1",
       text: "Text of product 1",
-      imgUrl: "/assets/img/kitchen-1.jpg",
+      imgUrl: "office-1.jpg",
       categorie: "Offices",
     },
     {
       title: "Product 1",
       text: "Text of product 1",
-      imgUrl: "/assets/img/kitchen-1.jpg",
+      imgUrl: "office-1.jpg",
       categorie: "Offices",
     },
   ];
@@ -162,8 +162,8 @@ const Products = () => {
                       <>
                         <div className="card">
                           <ModalImage
-                            small={product.imgUrl}
-                            large={product.imgUrl}
+                            small={require(`../assets/img/${product.imgUrl}`)}
+                            large={require(`../assets/img/cozinha-1.jpg`)}
                             alt={product.title}
                           />
                         </div>

@@ -8,7 +8,7 @@ const Header = () => {
         <div className="row mt-5">
           <div className="col-12 mt-3">
             <img
-              src="/assets/img/background.jpg"
+              src={require('../assets/img/background.jpg')}
               alt=""
               className=""
               width="100%"
