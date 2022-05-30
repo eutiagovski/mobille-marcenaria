@@ -1,13 +1,30 @@
 {
   "files": {
     "main.css": "/mobille-marcenaria/static/css/main.18586d86.css",
-    "main.js": "/mobille-marcenaria/static/js/main.377273b2.js",
+    "main.js": "/mobille-marcenaria/static/js/main.bea2b320.js",
+    "static/media/background.jpg": "/mobille-marcenaria/static/media/background.67321d2c89f4689046b8.jpg",
+    "static/media/quarto-solteiro-2.jpg": "/mobille-marcenaria/static/media/quarto-solteiro-2.51792ff6ef27b0f98cd2.jpg",
+    "static/media/quarto-solteiro-1.jpg": "/mobille-marcenaria/static/media/quarto-solteiro-1.5a3aa6107bff042d217c.jpg",
+    "static/media/kitchen-2.jpg": "/mobille-marcenaria/static/media/kitchen-2.ee9412c1b356626720c8.jpg",
+    "static/media/cozinha-1.jpg": "/mobille-marcenaria/static/media/cozinha-1.fe0fe030346cb34d8e0c.jpg",
+    "static/media/kitchen-1.jpg": "/mobille-marcenaria/static/media/kitchen-1.45c3ece2636bc26f2029.jpg",
+    "static/media/kitchen-4.jpg": "/mobille-marcenaria/static/media/kitchen-4.2f1463c324b07d8821ef.jpg",
+    "static/media/kitchen.jpg": "/mobille-marcenaria/static/media/kitchen.5bf22643a2b0ca2e1852.jpg",
+    "static/media/kitchen-.jpg": "/mobille-marcenaria/static/media/kitchen-.1eab49db6154a7db3c31.jpg",
+    "static/media/cozinha-3.jpg": "/mobille-marcenaria/static/media/cozinha-3.7d052c6e066b81ae321b.jpg",
+    "static/media/cozinha-4.jpg": "/mobille-marcenaria/static/media/cozinha-4.274b66815e09f1554aeb.jpg",
+    "static/media/office-1.jpg": "/mobille-marcenaria/static/media/office-1.77562e8cc6492724d069.jpg",
+    "static/media/office-2.jpg": "/mobille-marcenaria/static/media/office-2.7e7ea1a404081567feab.jpg",
+    "static/media/casal-3.jpg": "/mobille-marcenaria/static/media/casal-3.fd745f587fb655e38c59.jpg",
+    "static/media/cozinha-2.jpg": "/mobille-marcenaria/static/media/cozinha-2.a63d6231f1b7e5f0606a.jpg",
+    "static/media/quarto-casal-2.jpg": "/mobille-marcenaria/static/media/quarto-casal-2.963c8cc74b72b5ef8326.jpg",
+    "static/media/quarto-casal-1.jpg": "/mobille-marcenaria/static/media/quarto-casal-1.333c702946345953e40c.jpg",
     "index.html": "/mobille-marcenaria/index.html",
     "main.18586d86.css.map": "/mobille-marcenaria/static/css/main.18586d86.css.map",
-    "main.377273b2.js.map": "/mobille-marcenaria/static/js/main.377273b2.js.map"
+    "main.bea2b320.js.map": "/mobille-marcenaria/static/js/main.bea2b320.js.map"
   },
   "entrypoints": [
     "static/css/main.18586d86.css",
-    "static/js/main.377273b2.js"
+    "static/js/main.bea2b320.js"
   ]
 }
